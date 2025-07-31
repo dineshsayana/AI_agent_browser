@@ -15,9 +15,9 @@ This project uses browser automation for AI agent interactions.
    ```
 
 ## Usage
-
+```python
 python3 /app/events_extraction.py
-
+```
 ## Requirements
 
 - Python 3.11
